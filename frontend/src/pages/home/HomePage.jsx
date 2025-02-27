@@ -40,6 +40,6 @@ const HomePage = () => {
 				<Posts feedType={feedType}/>
 			</div>
 		</>
-	);
+	);    
 };
 export default HomePage;
