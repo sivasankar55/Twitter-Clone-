@@ -57,7 +57,8 @@ export const followUnfollowUser = async (req,res)=> {
             res.status(200).json({message:"User followed successfully"});
         }
     } catch (error) {
-        
+        console.log("Error in followUnfollwUser:", error.message);
+        res.status(500).json({error:error.message});
     }
 }
 
