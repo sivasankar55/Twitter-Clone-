@@ -2,6 +2,10 @@
 
 ![Demo App] https://twitter-clone-yblh.onrender.com
 
+Overview
+
+The MERN Stack Twitter Clone is a fully functional social media application that mimics the core features of Twitter. It is built using MongoDB, Express, React, and Node.js, with additional integrations for authentication, media uploads, and notifications.
+
 Some Features:
 
 -   ⚛️ Tech Stack: React.js, MongoDB, Node.js, Express, Tailwind
